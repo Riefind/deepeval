@@ -356,6 +356,11 @@ You should see a link displayed in the CLI once the test has finished running. P
 
 ![Demo GIF](assets/demo.gif)
 
+## Web Frontend Example
+
+A simple React frontend is provided in the `frontend` directory. Start the API server with `python server.py` and run `npm install && npm run dev` inside `frontend` to try it out.  
+You can choose the evaluation metric and optionally enable a simple guardrail check from the UI.
+
 <br />
 
 # Contributing
